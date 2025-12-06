@@ -1,8 +1,8 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
- 
 
 
-.cartaPatri{
+
+.cartaPatri {
     width: 200px;
     height: 400px;
     background-color: grey;
@@ -10,6 +10,10 @@
 }
 
 
-.spade{
-    
+.rojo {
+color: red;
+}
+
+.negro {
+    color: black;
 }
